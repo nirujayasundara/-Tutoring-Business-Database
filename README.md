@@ -1,8 +1,8 @@
-# -Tutoring-Business-Database
+#  Tutoring Business Database
 Excel project
-# Excel Basic Project — Tutoring Business Database
+# Excel Basic Project  Tutoring Business Database
 
-A beginner-to-intermediate Excel data analysis project built around a realistic tutoring business database. This project demonstrates practical skills in data cleaning, Pivot Tables, Excel formulas, and business reporting — skills directly applicable to data analyst roles.
+A beginner to intermediate Excel data analysis project built around a realistic tutoring business database. This project demonstrates practical skills in data cleaning, Pivot Tables, Excel formulas, and business reporting  skills directly applicable to data analyst roles.
 
 ---
 
